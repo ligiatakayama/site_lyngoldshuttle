@@ -61,7 +61,7 @@ section h2 {
 }
 
 section {
-    color: #74643b;
+    color: #795300;
 }
 
 section p {
@@ -122,18 +122,19 @@ section h3 {
 }
 
 form button {
-    background-color: #dfbd69;
+    background-color: #b28405;
     color: #010100;
     border: none;
     cursor: pointer;
+    max-width: 100px;
 }
 
 form button:hover {
-    background-color: #c59e34;
+    background-color: #dfbd69;
 }
 
 input:focus, textarea:focus {
-    outline-color: #c59e34 ;
+    outline-color: #795300 ;
 }
 
 footer {
